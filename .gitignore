@@ -1,0 +1,26 @@
+# 🔐 Environment
+notifications/.env
+orders/.env
+
+# 🐍 Python cache
+orders/__pycache__/
+orders/*.pyc
+notifications/__pycache__/
+notifications/*.pyc
+
+# 📦 Virtual environment
+notifications/venv/
+notifications/env/
+orders/venv/
+orders/env/
+# 🧠 IDE
+.idea/
+.vscode/
+
+# 🧪 Testing / coverage
+.coverage
+htmlcov/
+
+# 🗄️ OS files
+.DS_Store
+Thumbs.db
